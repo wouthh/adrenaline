@@ -1,3 +1,7 @@
+> **Historical fork — unmaintained here**
+>
+> This repository preserves a fork of [shobrook/adrenaline](https://github.com/shobrook/adrenaline). The upstream README, acknowledgements and links are retained below as historical documentation. They do not describe a service operated by this account; current setup and external-service compatibility have not been verified.
+
 # Adrenaline
 
 Adrenaline lets you talk to your codebase. It's powered by static analysis, vector search, and large language models.
